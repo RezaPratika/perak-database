@@ -13,10 +13,6 @@ npm install
 php artisan migrate
 ```
 
-```bash
-npm install
-```
-
 import file sql pada link berikut
 
 ```bash
