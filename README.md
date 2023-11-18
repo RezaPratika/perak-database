@@ -1,7 +1,6 @@
 <div>
   <pre id="code-block">
-    <code>
-      composer install
+    <code>composer install
     </code>
   </pre>
   <button onclick="copyCode()">Copy</button>
