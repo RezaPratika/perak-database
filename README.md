@@ -4,7 +4,6 @@
   </pre>
   <button onclick="copyCode()">Copy</button>
 </div>
-
 <script>
   function copyCode() {
     const codeBlock = document.getElementById('code-block');
